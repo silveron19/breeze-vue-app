@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+td {
+    border-top: 1px solid gainsboro;
+}
+
+th, td {
+  padding: 1rem;
+}
